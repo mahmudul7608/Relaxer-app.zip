@@ -15,7 +15,12 @@ body {
   align-items: center;
   margin: 0;
 }
-
+h1 {
+  margin-top: 3rem;
+  font-size: 40px;
+  color: gold;
+  font-family: initial, sans-serif;
+}
 .container {
   display: flex;
   align-items: center;
