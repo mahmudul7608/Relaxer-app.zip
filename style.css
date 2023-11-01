@@ -71,7 +71,7 @@ body {
 }
 
 @keyframes rotate {
-  form {
+  from {
     transform: rotate(0deg);
   }
   to {
